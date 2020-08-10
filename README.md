@@ -13,4 +13,6 @@ The connection was established through [sqlalchemy](https://pypi.org/project/SQL
 ## Power BI
 In Power BI, the dataset received a new column called "Continent" which has the continent the "Country" is at. Data was analzyed through some forms of visualization as follows:
 
-![]()
+![Example 01: ](Print01.PNG)
+![Example 02: ](Print02.PNG)
+![Example 03: ](Print03.PNG)
